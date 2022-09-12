@@ -1,0 +1,205 @@
+#container {
+    width: 1500px;
+    height: 700px;
+}
+#header {
+    width: 1500px;
+    height: 70px;
+    background-color: white;
+}
+h1 {
+text-align: center;
+font-size: 50px;
+color:darkred;
+font-weight: bolder;
+}
+h2{
+    color:gold
+    ;
+}
+#navigate {
+    width: 1500px;
+    height: 30px;
+    background-color:lightsteelblue;
+}
+#searchField {
+    margin-left: 100px;
+    width: 500px;
+    height: 24px;
+    /* margin-top: 3px; */
+    border: solid lightsteelblue;
+}
+#lens {
+    border: solid lightsteelblue;
+    background-color:lightsteelblue;
+    margin-left: 550px;
+}
+#favourite {
+    background-color:lightsteelblue;
+    border: solid lightsteelblue;
+    margin-left: 10px;
+}
+#cart {
+    background-color:lightsteelblue;
+    border: solid lightsteelblue;
+    margin-left: 10px;
+}
+#left {
+    width: 500px;
+    height: 650px;
+    background-color:steelblue;
+    float:left;
+}
+#catalogWind {
+    width: 1500px;
+    height: 390px;
+    background-color:steelblue;
+}
+#catalogue {
+position: absolute;
+top: 400px;
+left: 25px;
+width: 450px;
+height: 580px;
+background-color:white;
+}
+ul{
+    text-align: left;
+    font-size: 25px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    font-weight: bolder;
+}
+#content{
+    width: 1000px;
+    height: 650px;
+    background-color:steelblue;
+    float: right;
+}
+.good {
+    width: 150px;
+    height: 180px;
+    vertical-align: top;
+}
+.goodName {
+color: black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+.price {
+color: black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+.currency {
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+#clear{
+    clear: both;
+}
+h3 {
+    text-align: center;
+    background-color:steelblue;
+}
+.info{
+    color:yellow;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+.add{
+    color: red;
+    font-weight: bold;
+}
+#crtTab{
+    background: white;
+}
+#container{
+background-color:steelblue;
+}
+#contentWind{
+background-color:steelblue;
+height: 900px;
+}
+#gName{
+font-size: 40px;
+color: yellow;
+}
+#crt {
+text-align: right;
+}
+
+table{
+		margin: 0 auto;
+		width:1000px;
+		background: white;
+		font-size: 20px;
+	}
+th, td {
+text-align: center;
+}
+
+#shopInfo{
+width: 1000px;
+font-size: 28px;
+font-style: italic;
+background-color:white;
+text-align: justify;
+}
+
+#contentGood{
+float: left;
+}
+#data, #gName{
+color: black;
+font-weight: bold;
+}
+#answer{
+color: black;
+}
+#btnDel{
+background: steelblue;
+}
+#order{
+background: white;
+font-size: 35px;
+color: red;
+font-weight: bolder;
+}
+figure {
+position:relative;
+width: 200px;
+height: 300px;
+float: left;
+text-align: center;
+background-color: white;
+}
+figcaption{
+width: 200px;
+background-color: white;
+}
+#gPrice{
+color: red;
+font-weight: bold;
+}
+#butAdd{
+position: absolute; 
+bottom: 0px; 
+right: 0px;
+}
+#infoBlock{
+display: flex;
+justify-content: center;
+}
+#gInfo{
+width: 1300px;
+font-size: 28px;
+font-style: italic;
+background-color:white;
+text-align: justify;
+}
